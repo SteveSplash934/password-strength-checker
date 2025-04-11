@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Flask cache
+instance/
+.webassets-cache
+
+# Pytest / testing cache
+.pytest_cache/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+coverage.*
+.cache
+nosetests.xml
+*.cover
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Python-specific files
+*.egg
+*.egg-info/
+dist/
+build/
+*.bak
+
+# SQLite DBs (if auto-generated and not needed in repo)
+*.sqlite3
+
+# Environment variables
+.env
+.env.*
+
+# Passwords or API key configs (if separate)
+secrets.json
+
+@w
+
+# Virtual environments
+.venv/
+
+*.bat
